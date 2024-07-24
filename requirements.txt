@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+python-dotenv
+faiss-cpu
+langchain_huggingface
+beautifulsoup4
